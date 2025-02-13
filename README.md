@@ -1,5 +1,4 @@
 # Eye test
 
-A Vue implementation of the [eye test](https://igame.com) game.
+[Live demo](https://olekspolk.github.io/eye-test/)
 
-[Live demo](https://justprogr.github.io/eye-test/)
